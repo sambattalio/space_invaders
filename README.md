@@ -6,4 +6,4 @@ I created this project to demonstrate object oriented programming through a recr
 
 # Demonstration 
 
-[Alt text](https://github.com/sambattalio/space_invaders/blob/master/spaceyboi.gif?raw=true)
+![Alt text](https://github.com/sambattalio/space_invaders/blob/master/spaceyboi.gif?raw=true)
